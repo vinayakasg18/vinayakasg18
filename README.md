@@ -5,5 +5,5 @@
 - 👷‍♂️ I’m looking to collaborate on any development projects and DevOps
 - :desktop_computer: Currently I’m looking for Internship or fulltime job starting summer-2022
 - 🥊 During free-time: Running, Cycling, photography, coding challenges, reading books
-- 📫 How to reach me: vinayaksgadag@gmail.com
+- 📫 How to reach me: vinayaksgadag@gmail.com, 🕸️ https://vinayakasg18.github.io/
 - ⚡ Fun fact: I quote too much from FRIENDS or from football(soccer)
