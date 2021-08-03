@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Indiana_Hoosiers_logo.svg" height=20 width=30> I’m currently studying master's in computer science at Indiana University, Bloomington 
 - 💥 I’m currently learning Java, Spring, and full-stack development.
